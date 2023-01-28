@@ -1,0 +1,21 @@
+{
+  "name": "jot/root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "worksapces": [
+    "packages/*"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "react": "^18.2.0",
+    "typescript": "^4.9.4"
+  }
+}
